@@ -27,7 +27,7 @@ Dự án này hoạt động như sau: Khi phát hiện tiến trình StarRail.e
 ---
 
 ## 🔧 Cài đặt
-- **Phương án 1 (Chạy trực tiếp)**: Tải file **Ica.exe** [tại đây](https://github.com/chezzakowo/Ica) hoặc ở mục **Release**
+- **Phương án 1 (Chạy trực tiếp)**: Tải file **Ica.exe** [tại đây](https://github.com/chezzakowo/Ica/releases/download/release/Ica.exe) hoặc ở mục [**Release**](https://github.com/chezzakowo/Ica/releases/tag/release)
 
 - **Phương án 2 (Tự build, tự chạy)**: 
 

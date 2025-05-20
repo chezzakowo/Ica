@@ -1,7 +1,5 @@
 > [!CAUTION]
->Phần mềm này được phát triển chỉ với mục đích giải trí (Just For Fun - J4F), không phải là phần mềm gian lận hay can thiệp vào game.
-> [!CAUTION]
->Mọi hành động bạn thực hiện khi sử dụng phần mềm này (bao gồm chỉnh sửa, làm tăng tải CPU, RAM, hoặc bất kỳ tác động nào ảnh hưởng đến máy tính hoặc game, tài khoản game của bạn) đều do bạn tự chịu trách nhiệm. Mình sẽ không chịu bất kỳ trách nhiệm nào liên quan đến những vấn đề phát sinh!
+>Phần mềm này được phát triển chỉ với mục đích giải trí (Just For Fun - J4F), không phải là phần mềm gian lận hay can thiệp vào game. Mọi hành động bạn thực hiện khi sử dụng phần mềm này (bao gồm chỉnh sửa, làm tăng tải CPU, RAM, hoặc bất kỳ tác động nào ảnh hưởng đến máy tính hoặc game, tài khoản game của bạn) đều do bạn tự chịu trách nhiệm. Mình sẽ không chịu bất kỳ trách nhiệm nào liên quan đến những vấn đề phát sinh!
 
 <p align="center">
   <img src="./docs/img/header.png" alt="I'm just a header with a meme">

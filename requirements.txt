@@ -1,0 +1,5 @@
+PIL
+psutil==7.0.0
+pyautogui==0.9.54
+pygame==2.6.1
+requests==2.32.3

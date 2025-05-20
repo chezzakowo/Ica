@@ -8,7 +8,7 @@
 
 <h1 align="center">🦄 Ica 🦄</h1>
 
-**Ica** là một dự án mà mình viết ra dựa trên việc cộng động Honkai: Star Rail trên [Reddit](https://www.reddit.com/r/HonkaiStarRail/comments/1kj1reu/guys_im_kinda_new_here_why_the_hell_are_we/) và [HSR Việt Nam](https://www.facebook.com/tempest.ru/posts/trung-b%C3%ACnh-meme-v%E1%BB%81-ica-b%C3%AAn-reddit-ki%E1%BB%83uhsr/624960197253440/) cũng như là trên TikTok và Youtube đùa khá là nhiều thế nên là mình viết phần mềm nay ra cũng chỉ để "đùa" theo thôi!
+**Ica** là một dự án mà mình viết ra dựa trên việc cộng động Honkai: Star Rail trên [Reddit](https://www.reddit.com/r/HonkaiStarRail/comments/1kj1reu/guys_im_kinda_new_here_why_the_hell_are_we/) và [HSR Việt Nam](https://www.facebook.com/tempest.ru/posts/trung-b%C3%ACnh-meme-v%E1%BB%81-ica-b%C3%AAn-reddit-ki%E1%BB%83uhsr/624960197253440/) cũng như là trên TikTok và Youtube joke về việc Ica bell ăn luôn cả Hyacine (theo mình biết tại mình chưa cày cốt truyện tới đó) khá là nhiều thế nên là mình viết phần mềm nay ra cũng chỉ để "đùa" theo thôi!
 
 Dự án này hoạt động như sau: Khi phát hiện tiến trình StarRail.exe (Client game) đang chạy, phần mềm sẽ thực hiện một số phép tính nhằm tăng tải CPU và RAM, nhằm “giả bộ” như thể Ica bell đang “ăn hết” tài nguyên máy bạn vậy. Bên cạnh đó, nó còn phát ra một trong ba hiệu ứng liên quan đến Ica như Ica ngồi sập máy tính bạn, rơi cửa sổ,... Có thể coi công cụ này như một phần mềm test hiệu năng “kiểu joke” cũng được! (chắc thế)
 
@@ -85,7 +85,7 @@ Bạn có thể đọc tại [Hiệu ứng](../../docs/docs/hieu_ung.md) nha
 
 - Phần mềm này không tương tác trực tiếp với client game, mà chỉ tự động tăng tải CPU và RAM khi phát hiện ``StarRail.exe`` đang chạy — mang tính chất "giả lập Ica bell ăn tài nguyên" như meme.
 
-- Việc sử dụng phần mềm có thể khiến máy bạn lag, thiếu ổn định hoặc quạt kêu to nếu cấu hình không đúng, đang chạy nhiều ứng dụng nặng hoặc máy quá yếu. Hãy cân nhắc trước khi sử dụng.
+- Việc sử dụng phần mềm có thể khiến máy bạn lag, thiếu ổn định hoặc quạt kêu to nếu cấu hình không đủ hoặc đang chạy nhiều ứng dụng nặng. Hãy cân nhắc trước khi sử dụng.
 
 Mình không chịu trách nhiệm với bất kỳ vấn đề nào phát sinh khi bạn sử dụng phần mềm, bao gồm (nhưng không giới hạn):
 

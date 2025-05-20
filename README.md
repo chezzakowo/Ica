@@ -85,7 +85,7 @@ Bạn có thể đọc tại [Hiệu ứng](../../docs/docs/hieu_ung.md) nha
 
 - Phần mềm này không tương tác trực tiếp với client game, mà chỉ tự động tăng tải CPU và RAM khi phát hiện ``StarRail.exe`` đang chạy — mang tính chất "giả lập Ica bell ăn tài nguyên" như meme.
 
-- Việc sử dụng phần mềm có thể khiến máy bạn lag, thiếu ổn định hoặc quạt kêu to nếu cấu hình không đủ hoặc đang chạy nhiều ứng dụng nặng. Hãy cân nhắc trước khi sử dụng.
+- Việc sử dụng phần mềm có thể khiến máy bạn lag, thiếu ổn định hoặc quạt kêu to nếu cấu hình không đúng, đang chạy nhiều ứng dụng nặng hoặc máy quá yếu. Hãy cân nhắc trước khi sử dụng.
 
 Mình không chịu trách nhiệm với bất kỳ vấn đề nào phát sinh khi bạn sử dụng phần mềm, bao gồm (nhưng không giới hạn):
 

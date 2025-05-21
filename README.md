@@ -99,7 +99,7 @@ Mình không chịu trách nhiệm với bất kỳ vấn đề nào phát sinh 
 
 - Hư hỏng phần cứng (do nhiệt độ tăng cao)
 - Treo máy, mất dữ liệu, crash game, crash máy
-- Ảnh hưởng đến tài khoản game, nếu có sự hiểu nhầm từ hệ thống
+- Ảnh hưởng đến tài khoản game, nếu có sự hiểu nhầm của Anti-Cheat 
 
 Bạn hoàn toàn chịu trách nhiệm với mọi hành động liên quan đến phần mềm này — bao gồm việc chỉnh sửa, sử dụng sai mục đích, hay chia sẻ lại.
 
